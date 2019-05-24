@@ -8,15 +8,15 @@ export default class Index extends Component {
     this.state = {
       title: '首页',
       list: [1,2,3,4,5,6]
-    }  
+    }
   }
   config = {
     navigationBarTitleText: '首页'
-  }      
+  }
 
 
 
-  componentWillMount () { }  
+  componentWillMount () { }
 
   componentDidMount () { }
 
