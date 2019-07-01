@@ -1,6 +1,6 @@
 const config = {
-  projectName: 'taroDemo',
-  date: '2019-5-23',
+  projectName: 'taroStudy',
+  date: '2019-7-1',
   designWidth: 750,
   deviceRatio: {
     '640': 2.34 / 2,

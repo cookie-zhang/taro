@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "./dist",
-  "projectname": "taroDemo",
-  "description": "初识taro",
+  "projectname": "taroStudy",
+  "description": "taroTry",
   "appid": "touristappid",
   "setting": {
     "urlCheck": true,
