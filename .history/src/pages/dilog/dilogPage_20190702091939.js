@@ -14,6 +14,7 @@ class Dilogpage extends Component {
             // this.props.children 无法用 defaultProps 设置默认内容。由于小程序的限制，Taro 也无法知道组件的消费者是否传入内容，所以无法应用默认内容。
             // 不能把 this.props.children 分解为变量再使用。由于普通的 props 有一个确切的值，所以当你把它们分解为变量运行时可以处理，
             // this.props.children 则不能这样操作，你必须显性地把 this.props.children 全部都写完整才能实现它的功能。
+            await
             <View>
                 {
                     this.props.myImg

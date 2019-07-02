@@ -16,7 +16,7 @@ class Dilogpage extends Component {
             // this.props.children 则不能这样操作，你必须显性地把 this.props.children 全部都写完整才能实现它的功能。
             <View>
                 {
-                    this.props.myImg
+                    this.props
                 }
                 {
                   this.props.children

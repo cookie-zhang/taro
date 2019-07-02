@@ -15,7 +15,7 @@ class App extends Component {
   //像小程序一样，路径放在第一位，首页就展示哪个页面
   config = {
     pages: [
-      'pages/envet/envet',
+      'pages/dilog/index',
       'pages/dilog/index',
       'pages/index/index',
       'pages/list/listIndex'

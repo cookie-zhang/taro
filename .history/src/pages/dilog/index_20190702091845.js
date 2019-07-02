@@ -10,8 +10,8 @@ class Dilog extends Component {
                 <Dilogpage>
                     <Text>Text展示</Text> 
                 </Dilogpage> 
-                <Dilogpage myImg={<Image src={require('../img/crazy.jpg')}></Image>}>
-                    
+                <Dilogpage myImg=>
+                    <Image src={require('../img/crazy.jpg')}></Image>
                 </Dilogpage> 
                 <Dilogpage>
                     <Button>按钮</Button>    

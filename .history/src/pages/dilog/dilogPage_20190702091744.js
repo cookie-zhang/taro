@@ -15,9 +15,7 @@ class Dilogpage extends Component {
             // 不能把 this.props.children 分解为变量再使用。由于普通的 props 有一个确切的值，所以当你把它们分解为变量运行时可以处理，
             // this.props.children 则不能这样操作，你必须显性地把 this.props.children 全部都写完整才能实现它的功能。
             <View>
-                {
-                    this.props.myImg
-                }
+                我是dilog
                 {
                   this.props.children
                 }

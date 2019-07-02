@@ -1,0 +1,14 @@
+import Taro, {Component}  from '@tarojs/taro'
+import { View, Text, B } from '@tarojs/components'
+class Envet extends Component  {
+    render(){
+        return (
+            <View>
+                <Text>事件处理</Text>
+
+            </View>
+
+        )
+    }
+}
+export default Envet
