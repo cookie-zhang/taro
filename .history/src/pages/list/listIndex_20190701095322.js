@@ -1,0 +1,1 @@
+impot Taro,{compontent} from '@'
